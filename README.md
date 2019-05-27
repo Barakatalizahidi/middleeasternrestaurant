@@ -1,2 +1,0 @@
-# middleeasternrestaurant
-Created with CodeSandbox
